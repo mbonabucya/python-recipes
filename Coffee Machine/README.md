@@ -1,5 +1,5 @@
 
-![](https://img.shields.io/badge/Quiz-orange)
+![](https://img.shields.io/badge/Coffee_Machine-orange)
 
 # python Coffe machine
 
