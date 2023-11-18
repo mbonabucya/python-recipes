@@ -5,6 +5,9 @@
 
 Quiz Game  
 
+## Sample Game try 
+
+![screenshot](./images/quiz.png)
 
 
 ## Built With
