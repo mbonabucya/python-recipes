@@ -24,7 +24,7 @@ def play():
     extract(account_a)
     print(vs)
     extract(account_b)
-    answer = input("Who has more followers? Type 'A' or 'B': ")
+    answer = input("Who has more followers? Type 'A' or 'B': ").lower()
     a_follower_count = account_a["follower_count"]
     b_follower_count = account_b["follower_count"]
   
