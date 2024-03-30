@@ -28,14 +28,14 @@ def play():
     a_follower_count = account_a["follower_count"]
     b_follower_count = account_b["follower_count"]
   
-    if answer == "A":
+    if answer == "a":
       if a_follower_count > b_follower_count:
         score += 1
         print(f"You're right! Current score: {score}.")
       else:
         print(f"Sorry, that's wrong. Final score: {score}")
         game_should_continue = False
-    elif answer == "B":
+    elif answer == "b":
       if b_follower_count > a_follower_count:
         score += 1
         account_a = account_b
